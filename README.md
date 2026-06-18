@@ -43,21 +43,21 @@ You can create a new account or use the pre-configured test account to explore t
 ## 📸 Screenshots
 
 
-**Language:**
+**Main Menu:**
 
 <img width="686" height="393" alt="image" src="https://github.com/user-attachments/assets/09661b8c-044f-4c1b-827b-9865813cd185" />
 
 
-**Language:**
+**Points Calculation:**
 
 <img width="686" height="393" alt="image" src="https://github.com/user-attachments/assets/3db1e1cd-4e91-4668-8e66-afecf9e43d67" />
 
 
-**Language:**
+**Calculation Results:**
 
 <img width="1106" height="588" alt="image" src="https://github.com/user-attachments/assets/b8c5337d-8585-428e-a9cd-2ef71c5b0681" />
 
 
-**Language:**
+**Statistics - Humanities:**
 
 <img width="1586" height="943" alt="image" src="https://github.com/user-attachments/assets/acc3c322-4326-4bf8-8f62-ec26804f049d" />
